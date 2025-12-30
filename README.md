@@ -1,0 +1,2 @@
+# shujuwajue_guidingdongzuo
+数据挖掘作业的规定题目，分析2010年到2025年社科网的人文社会研究项目
